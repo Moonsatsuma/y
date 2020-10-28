@@ -1,5 +1,5 @@
 ---
-title: "Post: Link"
+title: "Being an introvert in academia"
 categories:
   - Blog
 tags:
